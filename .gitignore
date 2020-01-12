@@ -1,0 +1,3 @@
+stylegan_venv/*
+__pycache__/*
+cache/*
