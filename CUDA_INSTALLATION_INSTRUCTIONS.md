@@ -1,6 +1,6 @@
 # Setting Up GPU Support on Azure (Or any cloud)
 
-[![ubuntu-16.04](https://img.shields.io/static/v1?label=Ubuntu&message=16.04&color=success)](http://releases.ubuntu.com/16.04/)&nbsp;[![cuda-9.0](https://img.shields.io/static/v1?label=CUDA&message=9.0&color=blue)](https://developer.nvidia.com/cuda-90-download-archive)&nbsp;[![cudnn-7.x](https://img.shields.io/static/v1?label=cuDNN&message=7.x&color=blueviolet)](https://developer.nvidia.com/rdp/cudnn-archive)&nbsp;[![nvidia-drivers](https://img.shields.io/static/v1?label=NVIDIA-Drivers&message=384&color=important)](https://www.nvidia.com/download/driverResults.aspx/123335/en-us)
+[![ubuntu-16.04](https://img.shields.io/static/v1?label=Ubuntu&message=16.04&color=success)](http://releases.ubuntu.com/16.04/)&nbsp;&nbsp;&nbsp;[![cuda-9.0](https://img.shields.io/static/v1?label=CUDA&message=9.0&color=blue)](https://developer.nvidia.com/cuda-90-download-archive)&nbsp;&nbsp;&nbsp;[![cudnn-7.x](https://img.shields.io/static/v1?label=cuDNN&message=7.x&color=blueviolet)](https://developer.nvidia.com/rdp/cudnn-archive)&nbsp;&nbsp;&nbsp;[![nvidia-drivers](https://img.shields.io/static/v1?label=NVIDIA-Drivers&message=384&color=important)](https://www.nvidia.com/download/driverResults.aspx/123335/en-us)
 
 First, create cloud account for starting development of project. Create Virtual Machine Instance with following specifications.
   - Ubuntu 16.04
